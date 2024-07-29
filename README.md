@@ -21,4 +21,4 @@
 <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <div/><br/>
 
-Estudando e aplicando programação desde 2019 💪.
+Estudando e aplicando programação desde 2019 💪💯
