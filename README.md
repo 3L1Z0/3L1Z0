@@ -4,7 +4,7 @@
 
 [![3L1Z0 GitHub stats](https://github-readme-stats.vercel.app/api?username=3L1Z0&locale=pt-br&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3L1Z0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3L1Z0&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que sou especializado
 
